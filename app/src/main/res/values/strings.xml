@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cherry &amp; Ginger Iced TeaTo Stay Healthy</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interestial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="fight_infections">Fight Infections</string>
+    <string name="boosts_skin_health">Boosts Skin Health</string>
+    <string name="treats_insomnia">Treats Insomnia</string>
+    <string name="good_for_diabetes">Good For Diabetes</string>
+    <string name="soothing_to_an_upset_stomach">Soothing To An Upset Stomach</string>
+    <string name="helps_to_loss_weight">Helps To Loss Weight</string>
+
+    <string name="activity1_content">Cherry is famed for its anti-inflammatory and antioxidant properties, which combat free radicals and protect the body from a number of common infections as well as serious ailments.</string>
+    <string name="activity2_content">Antioxidants present in cherry also play a role in delaying premature ageing and imparts a dewy glow to the skin. Drinking juice of cherries can bring relief from skin problems like acne, vulgaris and eczema. Juiced cherry is abound with vitamin A that is known to flush out toxins from the blood and layers underlining the skin.</string>
+    <string name="activity3_content">Cherries contain a certain chemical called melatonin that regulates the nerves in our brain responsible for putting us to sleep. Eating cherries may imbue calmness in the mind and help us get a good night\'s sleep.</string>
+    <string name="activity4_content">Cherries contain a considerable amount of potassium and almost zero sodium content, main requisites of a diabetes diet.</string>
+    <string name="activity5_content">This fruity tea is a fantastic beverage for hot days and soothing to an upset stomach any other time. Slightly sweetened fruit juice and tea is a healthy alternative to artificially-flavored powdered drinks. Try it with seltzer water instead of tea!</string>
+    <string name="activity6_content">Cherries, teeming with dietary fibre, are an excellent fruit to include in the weight loss diet. Fibre bulks up the food to be digested and eases out the digestion process, thus, preventing accumulation of fat in the body.</string>
+
+</resources>
